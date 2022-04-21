@@ -12,7 +12,7 @@ title                    : "Profile"
 title_separator          : "-"
 name                     : "Seongyong Park"
 description              : "Personal Profile."
-url                      : "https://psychemistz.github.io"
+url                      : "https://shujaat-khan.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  : "psychemistz/profile"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ author:
   avatar           : "new_profile.jpg"
   bio              : "Research Scientist in Machine Learning & Bioinformatics"
   location         : "SynBI Lab, KAIST, South Korea"
-  email            : "psychemistz@gmail.com"
+  email            : "shujaat123@gmail.com"
   uri              :
   bitbucket        :
   codepen          :

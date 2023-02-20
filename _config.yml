@@ -10,7 +10,7 @@ locale                   : "en-US"
 
 title                    : "Profile"
 title_separator          : "-"
-name                     : "Seongyong Park"
+name                     : "Shujaat Khan"
 description              : "Personal Profile."
 url                      : "https://shujaat-khan.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -53,7 +53,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Seongyong Park"
+  name             : "Shujaat Khan"
   avatar           : "new_profile.jpg"
   bio              : "Research Scientist in Machine Learning & Bioinformatics"
   location         : "SynBI Lab, KAIST, South Korea"
